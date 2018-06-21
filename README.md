@@ -1,4 +1,5 @@
-## Python Learning ##
+# Python Learning
 
-<h3 id="intro">Intro</h3>
-The main purpose of this repository is for learning. Understand both the logic of programming and python itself. 
+## Introduction
+
+The main purpose of this repository is for learning, and understanding both the logic of programming and python. Focus on problems from data structure, algorithms to ideas of web crawling and data analysis.
